@@ -1,2 +1,2 @@
 # WindowsTracing
-Using Windows Trace Application
+Using Windows Trace Application.
